@@ -1,8 +1,5 @@
 payload:
   - '+.oaifree.com'
-  - '+.kxdao.com'
-  - '+.kxdao.net'
-  - '+.kxdao.vip'
   - '+.deeplx.com'
   - '+.123pan.com'
   - '+.zhheo.com'
