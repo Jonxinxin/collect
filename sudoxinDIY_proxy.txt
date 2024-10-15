@@ -1,2 +1,5 @@
 payload:
   - '+.ping0.cc'
+  - '+.kxdao.com'
+  - '+.kxdao.net'
+  - '+.kxdao.vip'
