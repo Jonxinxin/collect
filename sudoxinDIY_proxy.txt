@@ -1,2 +1,3 @@
 payload:
   - '+.ping0.cc'
+  - '+.canva.com'
