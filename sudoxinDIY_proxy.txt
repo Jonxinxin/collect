@@ -3,3 +3,4 @@ payload:
   - '+.canva.com'
   - '+.clawcloudrun.com'
   - '+.v2nodes.com'
+  - '+.capcut.com'
